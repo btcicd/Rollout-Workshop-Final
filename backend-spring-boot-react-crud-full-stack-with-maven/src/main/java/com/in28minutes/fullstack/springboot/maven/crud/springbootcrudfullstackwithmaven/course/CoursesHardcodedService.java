@@ -25,7 +25,7 @@ public class CoursesHardcodedService {
 				"Deploy Spring Boot Microservices to Cloud with Docker and Kubernetes"));
 		try {
 			Rox.register("default", conf);
-			Rox.setup("ENTER ROLLOUT KEY HERE").get();
+			Rox.setup("5d52fdd22385ac15e399fd2c").get();
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
