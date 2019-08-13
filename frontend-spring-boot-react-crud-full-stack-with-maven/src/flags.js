@@ -6,7 +6,7 @@ const Flags = {
 }
 
 Rox.register('default', Flags);
-Rox.setup('INSERT ROLLOUT KEY HERE', {
+Rox.setup('5d52fdd22385ac15e399fd2c', {
   debugLevel: 'verbose'
 });
 export default Flags;
